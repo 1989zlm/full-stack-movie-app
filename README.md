@@ -1,5 +1,6 @@
 # screen.gif 
-(https://github.com/user-attachments/assets/febf238c-69c0-46c8-a18e-5246f50430d3)
+![Uploading EkranKayd2024-09-3013.31.23-ezgif.com-video-to-gif-converter.gif…]()
+
 
 # Frontend Teknolojiler
 
