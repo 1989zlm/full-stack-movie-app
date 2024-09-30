@@ -1,4 +1,4 @@
-![](./src/assets/fullstackMovie.gif)
+# screen.gif /Users/ozlem/Desktop/NODE/3_fullstack_movie-app/frontend/src/assets/fullstackMovie.gif
 
 # Frontend Teknolojiler
 
