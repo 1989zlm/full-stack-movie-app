@@ -1,5 +1,5 @@
-#theScreen.gif 
-![EkranKayd2024-09-3013.31.23-ezgif.com-video-to-gif-converter.gif…]()
+
+
 
 
 # Frontend Teknolojiler
