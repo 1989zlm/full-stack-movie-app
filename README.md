@@ -1,3 +1,5 @@
+![](./src/assets/fullstackMovie.gif)
+
 # Frontend Teknolojiler
 
 - react
@@ -6,6 +8,7 @@
 - react-icons
 - axios
 - @tanstack/react-query (for api request state menagament)
+- react-tostify
 
 # Backend Teknolojiler
 
