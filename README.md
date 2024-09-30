@@ -1,4 +1,5 @@
-# screen.gif /Users/ozlem/Desktop/NODE/3_fullstack_movie-app/frontend/src/assets/fullstackMovie.gif
+# screen.gif 
+(https://github.com/user-attachments/assets/febf238c-69c0-46c8-a18e-5246f50430d3)
 
 # Frontend Teknolojiler
 
